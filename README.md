@@ -1,4 +1,6 @@
-<h3>Tiaog Becker - @tiagudo<h3>
+<div> 
+    <h3>Tiaog Becker - @tiagudo<h3>
+</div>
 <div> 
     <p>I'm a professional from the music industry with a degree in TI and I'm interested in software development for WEB/desktop applications.</p>
     <p>I’m currently learning JAVA + SPRING/Spring Boot.</p>
