@@ -11,7 +11,7 @@
 
 <div> 
     <p>I'm a professional from the music industry with a degree in TI and I'm interested in software development for WEB/desktop applications.</p>
-    <p>I’m currently learning JAVA + SPRING/Spring Boot.</p>
+    <p>I’m currently specializing in JAVA + SPRING/Spring Boot.</p>
     <p>I am looking to collaborate on JAVA projects remotely, so I can consistently develop my skills and interact with other professionals.</p>
 </div>
 <!---
