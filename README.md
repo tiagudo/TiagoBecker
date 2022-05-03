@@ -4,14 +4,14 @@
 
 <div> 
     <p>Sou um profissional da indústria musical com graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas interessado em desenvolvimento de software para aplicações WEB e desktop.</p>
-    <p>Atualmente cursando especialização em desenvolviemnto JAVA com SRING/SpringBoot.</p>
+    <p>Tenho formação em desenvolviemnto JAVA com SRING/SpringBoot pela Targettrust em 04/2021.</p>
     <p>Procuro colaborar de forma remota em projetos JAVA para aprimorar de forma consistente meus conhecimentos e interagir com ountros profissionais.</p>
 </div>
 
 
 <div> 
     <p>I'm a professional from the music industry with a degree in TI and I'm interested in software development for WEB/desktop applications.</p>
-    <p>I’m currently specializing in JAVA + SPRING/Spring Boot.</p>
+    <p>Completed bootcamp in JAVA + SPRING/Spring Boot in april, 2021.</p>
     <p>I am looking to collaborate on JAVA projects remotely, so I can consistently develop my skills and interact with other professionals.</p>
 </div>
 <!---
