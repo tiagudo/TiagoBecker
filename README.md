@@ -4,7 +4,7 @@
 
 <div> 
     <p>Sou um profissional da indústria musical com graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas interessado em desenvolvimento de software para aplicações WEB e desktop.</p>
-    <p>Tenho formação em desenvolviemnto JAVA com SRING/SpringBoot pela Targettrust em 04/2021.</p>
+    <p>Tenho formação em desenvolviemnto JAVA com SPRING/SpringBoot pela Targettrust em 04/2021.</p>
     <p>Procuro colaborar de forma remota em projetos JAVA para aprimorar de forma consistente meus conhecimentos e interagir com ountros profissionais.</p>
 </div>
 
